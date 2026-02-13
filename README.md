@@ -20,22 +20,14 @@ The dashboard enables business users to evaluate **revenue growth, cost impact, 
 ### 1. Sales Overview
 - KPIs: **Total Sales, Total Profit, Order Volume, Profit Margin %**
 - **Monthly and yearly sales trend analysis**
-- Snapshot of overall business performance
+- Snapshot of overall business performance with Quaterly sales analysis
 
-### 2. Product Performance
-- Sales and profit by **category and sub-category**
-- **Top revenue and top profit products**
-- Detection of **low-profit or loss-making items**
-
-### 3. Regional & Segment Analysis
-- Revenue and profitability by **region / market / customer segment**
-- Comparison of **high-growth vs low-growth regions**
-- Geographic contribution to total sales
-
-### 4. Profitability Insights
-- **Profit margin distribution**
-- Relationship between **discounts, quantity, and profit**
-- Identification of **key profit drivers**
+### 2. Product, Regional & Profitability Analysis
+- Identification of **top revenue-generating, high-profit, and loss-making products**
+- Revenue and profitability comparison by **region, market, and customer segment**
+- Detection of **high-growth vs low-growth geographic areas** and their contribution to total sales
+- Analysis of **profit margin distribution** and the impact of **pricing range, and quantity** on overall profitability
+- Clear visibility into **key profit drivers and weak business segments** to support strategic decision-making
 
 ---
 
@@ -83,7 +75,6 @@ The dashboard is created using structured Excel datasets, including:
 - Identifies **top revenue and profit contributors**
 - Highlights **seasonal sales patterns**
 - Reveals **regional performance differences**
-- Evaluates **discount impact on margins**
 - Supports **product, pricing, and marketing decisions**
 
 ---
@@ -100,17 +91,8 @@ The dashboard is created using structured Excel datasets, including:
 The repository includes dashboard previews such as:
 
 - **Sales Overview Dashboard**
-- **Product Performance Analysis**
-- **Regional & Segment Insights**
-- **Profitability Trends and Margin Analysis**
+- **Product, Regional & Profitability Analysis**
 
-*(Add your Excel dashboard screenshots in a `/screenshots` folder and link them here.)*
-
-Example:
-
-```
-![Sales Overview](screenshots/sales_overview.png)
-![Product Performance](screenshots/product_performance.png)
 ```
 
 ---
