@@ -91,9 +91,9 @@ The dashboard is created using structured Excel datasets, including:
 The repository includes dashboard previews such as:
 
 - **Sales Overview Dashboard**
-  ![screenshot](https://github.com/mnv1015/Financial_statements_And_Accounts_Analytics/blob/main/Assets/Cashflow.png) 
+  ![screenshot](https://github.com/mnv1015/Sales_And_Profitability_Analytics/blob/main/Assets/Time_series_Dashboard.png) 
 - **Product, Regional & Profitability Analysis**
-  ![screenshot](https://github.com/mnv1015/Financial_statements_And_Accounts_Analytics/blob/main/Assets/Cashflow.png)
+  ![screenshot](https://github.com/mnv1015/Sales_And_Profitability_Analytics/blob/main/Assets/Product%2C%20Regional%20%26%20Profitability%20Analysis.png)
 
 ---
 
