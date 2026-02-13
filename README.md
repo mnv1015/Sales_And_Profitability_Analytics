@@ -91,12 +91,12 @@ The dashboard is created using structured Excel datasets, including:
 The repository includes dashboard previews such as:
 
 - **Sales Overview Dashboard**
+  ![screenshot](https://github.com/mnv1015/Financial_statements_And_Accounts_Analytics/blob/main/Assets/Cashflow.png) 
 - **Product, Regional & Profitability Analysis**
-
-```
+  ![screenshot](https://github.com/mnv1015/Financial_statements_And_Accounts_Analytics/blob/main/Assets/Cashflow.png)
 
 ---
 
 ## Author
 **Manav Kharvasiya**  
-Aspiring Data Analyst | Excel | Power BI | Business Intelligence | Sales & Financial Analytics
+Aspiring Data Analyst | Power BI | Financial Analytics | Business Intelligence
